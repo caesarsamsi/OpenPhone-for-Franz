@@ -1,0 +1,13 @@
+{
+  "id": "OpenPhone",
+  "name": "OpenPhone",
+  "version": "1.0.0",
+  "description": "OpenPhone - Second Phone Number",
+  "main": "index.js",
+  "author": "csamsi",
+  "license": "MIT",
+  "repository": "https://github.com/caesarsamsi/OpenPhone-for-Franz.git",
+  "config": {
+    "serviceURL": "https://openphone.co/"
+  }
+}
