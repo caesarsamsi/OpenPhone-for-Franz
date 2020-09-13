@@ -1,13 +1,24 @@
 {
-  "id": "OpenPhone",
+  "id": "openphone",
   "name": "OpenPhone",
   "version": "1.0.0",
   "description": "OpenPhone - Second Phone Number",
   "main": "index.js",
-  "author": "csamsi",
+  "author": "cmsamsi@hotmail.com",
   "license": "MIT",
-  "repository": "https://github.com/caesarsamsi/OpenPhone-for-Franz.git",
+  "repository": "https://github.com/caesarsamsi/OpenPhone-for-Franz",
   "config": {
-    "serviceURL": "https://my.openphone.co/inbox/"
+    "serviceURL": "https://openphone.co/inbox",
+    "message": "NA",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": "true"
+    }
   }
 }

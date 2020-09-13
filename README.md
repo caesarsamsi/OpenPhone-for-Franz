@@ -1,5 +1,5 @@
-# Feedly for Franz
+# WhatsApp for Franz
+This is the development recipe for OpenPhone (https://openphone.co)
 
-This is an unofficial [Feedly](https://feedly.com/) recipe for [Franz](https://meetfranz.com/).
-
-For installation, visit the [Franz documentation](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#installation).
+### How to create your own Franz recipes:
+* [Read the documentation](https://github.com/meetfranz/plugins)
